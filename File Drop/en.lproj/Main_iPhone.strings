@@ -1,0 +1,206 @@
+
+/* Class = "IBUILabel"; text = "为您的PC/Mac免费下载File Drop"; ObjectID = "05F-UG-RxV"; */
+"05F-UG-RxV.text" = "Download File Drop for PC/Mac for FREE";
+
+/* Class = "IBUILabel"; text = "I2正在给您发送文件：(总大小231.45MB)\n屏幕快照 2014-01-30 上午11.52.16.png"; ObjectID = "1Gg-zh-yMP"; */
+"1Gg-zh-yMP.text" = "I2正在给您发送文件：(总大小231.45MB)\n屏幕快照 2014-01-30 上午11.52.16.png";
+
+/* Class = "IBUINavigationItem"; title = "设置"; ObjectID = "2HW-5E-4cT"; */
+"2HW-5E-4cT.title" = "Setting";
+
+/* Class = "IBUILabel"; text = "Detail"; ObjectID = "4VN-ox-pwb"; */
+"4VN-ox-pwb.text" = "Detail";
+
+/* Class = "IBUILabel"; text = "您可以通过下面的地址联系我："; ObjectID = "5fU-Cv-a2f"; */
+"5fU-Cv-a2f.text" = "Contact me with address below:";
+
+/* Class = "IBUIButton"; normalTitle = "取消"; ObjectID = "5jp-d9-6Eg"; */
+"5jp-d9-6Eg.normalTitle" = "Cancel";
+
+/* Class = "IBUILabel"; text = "常见问题"; ObjectID = "62z-1n-rpM"; */
+"62z-1n-rpM.text" = "Q&A";
+
+/* Class = "IBUINavigationItem"; title = "接收文件"; ObjectID = "7e3-4B-Vbp"; */
+"7e3-4B-Vbp.title" = "Recieve Files";
+
+/* Class = "IBUINavigationItem"; title = "选择设备"; ObjectID = "8oV-oj-qhf"; */
+"8oV-oj-qhf.title" = "Select Device";
+
+/* Class = "IBUINavigationItem"; title = "File Drop for PC/Mac"; ObjectID = "CZM-t3-qYQ"; */
+"CZM-t3-qYQ.title" = "File Drop for PC/Mac";
+
+/* Class = "IBUITableViewSection"; headerTitle = "现在只需6元，享受完美File Drop体验"; ObjectID = "Cjy-8Y-FcQ"; */
+"Cjy-8Y-FcQ.headerTitle" = "Just $0.99 for excellent experience of File Drop, and technology support";
+
+/* Class = "IBUILabel"; text = "File Drop"; ObjectID = "Cph-fV-CfN"; */
+"Cph-fV-CfN.text" = "File Drop";
+
+/* Class = "IBUITableViewSection"; headerTitle = "其他问题"; ObjectID = "EHm-VU-W5g"; */
+"EHm-VU-W5g.headerTitle" = "Other questions";
+
+/* Class = "IBUIButton"; normalTitle = "删除"; ObjectID = "FZE-oH-tqv"; */
+"FZE-oH-tqv.normalTitle" = "Delete";
+
+/* Class = "IBUILabel"; text = "Detail"; ObjectID = "FeP-a7-UBF"; */
+"FeP-a7-UBF.text" = "Detail";
+
+/* Class = "IBUILabel"; text = "Mac/PC版File Drop初始化失败？"; ObjectID = "Fft-Fj-hcG"; */
+"Fft-Fj-hcG.text" = "File Drop for Mac/PC failed to initialize？";
+
+/* Class = "IBUILabel"; text = "非常感谢您对File Drop的支持！"; ObjectID = "GgT-Al-GFY"; */
+"GgT-Al-GFY.text" = "Thank you for support to File Drop!";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "HJe-gz-GJ5"; */
+"HJe-gz-GJ5.text" = "Title";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "HXj-5Q-8sh"; */
+"HXj-5Q-8sh.text" = "Title";
+
+/* Class = "IBUILabel"; text = "File Drop找不到我的Mac？"; ObjectID = "He1-HC-qU2"; */
+"He1-HC-qU2.text" = "File Drop cannot find my Mac?";
+
+/* Class = "IBUINavigationItem"; title = "撰写文本"; ObjectID = "JLR-ii-WQx"; */
+"JLR-ii-WQx.title" = "Write Texts";
+
+/* Class = "IBUILabel"; text = "File Drop找不到我的iOS设备？"; ObjectID = "KSq-NM-XCD"; */
+"KSq-NM-XCD.text" = "File Drop cannot find my iOS devices?";
+
+/* Class = "IBUILabel"; text = "移除广告"; ObjectID = "Kf6-Hj-rgv"; */
+"Kf6-Hj-rgv.text" = "Remove ADs";
+
+/* Class = "IBUIButton"; normalTitle = "发送"; ObjectID = "NJD-e4-sks"; */
+"NJD-e4-sks.normalTitle" = "Send";
+
+/* Class = "IBUILabel"; text = "给应用评分"; ObjectID = "Qcy-MX-hei"; */
+"Qcy-MX-hei.text" = "Rank the app";
+
+/* Class = "IBUITableViewSection"; headerTitle = "无法发现设备"; ObjectID = "RDr-tm-uUe"; */
+"RDr-tm-uUe.headerTitle" = "Cannot find devices";
+
+/* Class = "IBUILabel"; text = "恢复购买"; ObjectID = "RNN-TP-a1C"; */
+"RNN-TP-a1C.text" = "Restore purchase";
+
+/* Class = "IBUITableViewSection"; headerTitle = "在这里找到更多的帮助信息"; ObjectID = "Wqz-gH-eNU"; */
+"Wqz-gH-eNU.headerTitle" = "Find more help information here";
+
+/* Class = "IBUIButton"; normalTitle = "重命名"; ObjectID = "WzC-fk-yQQ"; */
+"WzC-fk-yQQ.normalTitle" = "Rename";
+
+/* Class = "IBUILabel"; text = "File Drop找不到我的PC？"; ObjectID = "Xh9-G8-HNS"; */
+"Xh9-G8-HNS.text" = "File Drop cannot find my PC?";
+
+/* Class = "IBUILabel"; text = "I2正在给您发送文件：(总大小231.45MB)\n屏幕快照 2014-01-30 上午11.52.16.png"; ObjectID = "YqG-rs-gSe"; */
+"YqG-rs-gSe.text" = "I2正在给您发送文件：(总大小231.45MB)\n屏幕快照 2014-01-30 上午11.52.16.png";
+
+/* Class = "IBUILabel"; text = "文件无法预览"; ObjectID = "aE0-DX-889"; */
+"aE0-DX-889.text" = "File preview failed";
+
+/* Class = "IBUINavigationItem"; title = "常见问题"; ObjectID = "aP5-zt-Svb"; */
+"aP5-zt-Svb.title" = "Q&A";
+
+/* Class = "IBUILabel"; text = "请在PC、Mac或者其他iOS设备上打开File Drop以向此设备发送文件。您的设备会被显示为：I2的iPhone"; ObjectID = "bfs-iK-2Ol"; */
+"bfs-iK-2Ol.text" = "Please run File Drop on PC, Mac, or another iOS device in order to send files to your device. Your device will be displayed as: I2's iPhone";
+
+/* Class = "IBUIButton"; normalTitle = "http://www.xiongdianpku.com/products/file-drop"; ObjectID = "cdK-r3-mpn"; */
+"cdK-r3-mpn.normalTitle" = "http://www.xiongdianpku.com/products/file-drop";
+
+/* Class = "IBUILabel"; text = "我的名称"; ObjectID = "di9-Kt-SJB"; */
+"di9-Kt-SJB.text" = "My Name";
+
+/* Class = "IBUILabel"; text = "关于File Drop"; ObjectID = "dv3-fd-kLa"; */
+"dv3-fd-kLa.text" = "About File Drop";
+
+/* Class = "IBUILabel"; text = "文件无法传输"; ObjectID = "eOd-aS-Vow"; */
+"eOd-aS-Vow.text" = "File transport failed";
+
+/* Class = "IBUINavigationItem"; title = "接收文件"; ObjectID = "fgn-j2-uhD"; */
+"fgn-j2-uhD.title" = "Recieve Files";
+
+/* Class = "IBUITableViewSection"; headerTitle = "点按以修改出现在对方设备上的名称"; ObjectID = "g4q-a7-zKv"; */
+"g4q-a7-zKv.headerTitle" = "Tap to modify your device name on other devices.";
+
+/* Class = "IBUILabel"; text = "若其他设备与此设备不在同一无线局域网环境下，请在其他设备上选择“添加”按钮并输入以下地址："; ObjectID = "gvW-8C-fSv"; */
+"gvW-8C-fSv.text" = "If the opposite device is NOT in the same network with this one, please select ADD button on the opposite device and input address below:";
+
+/* Class = "IBUINavigationItem"; title = "发送文件"; ObjectID = "hbr-1C-gH8"; */
+"hbr-1C-gH8.title" = "Send Files";
+
+/* Class = "IBUINavigationItem"; title = "我的文件"; ObjectID = "hdj-X6-sB0"; */
+"hdj-X6-sB0.title" = "My Documents";
+
+/* Class = "IBUINavigationItem"; title = "文件详情"; ObjectID = "hkk-3K-Woe"; */
+"hkk-3K-Woe.title" = "File Detail";
+
+/* Class = "IBUILabel"; text = "File Drop入门"; ObjectID = "iRx-7J-n3X"; */
+"iRx-7J-n3X.text" = "File Drop ABC";
+
+/* Class = "IBUITableViewSection"; headerTitle = "无法初始化File Drop"; ObjectID = "iX6-nh-Zjg"; */
+"iX6-nh-Zjg.headerTitle" = "Cannot initialize File Drop";
+
+/* Class = "IBUITabBarItem"; title = "我的文件"; ObjectID = "jNT-0b-H8T"; */
+"jNT-0b-H8T.title" = "My Documents";
+
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "jZI-Jh-VRb"; */
+"jZI-Jh-VRb.text" = "Subtitle";
+
+/* Class = "IBUILabel"; text = "iOS版本File Drop初始化失败？"; ObjectID = "krl-73-aFO"; */
+"krl-73-aFO.text" = "File Drop for iOS initialize failed?";
+
+/* Class = "IBUILabel"; text = "File Drop有适用于PC和Mac的版本\n这可以帮助你在电脑与移动设备之间轻松传输文件。\n\n您可以通过下面的链接下载："; ObjectID = "m4X-lH-vMP"; */
+"m4X-lH-vMP.text" = "There're versions for PC&Mac\nThis can help you drop files simply between computers and mobile devices.\n\nDownload via:";
+
+/* Class = "IBUILabel"; text = "反馈意见"; ObjectID = "mC5-N6-hQr"; */
+"mC5-N6-hQr.text" = "Feedback";
+
+/* Class = "IBUINavigationItem"; title = "我的文件"; ObjectID = "mY7-ki-9A1"; */
+"mY7-ki-9A1.title" = "My Documents";
+
+/* Class = "IBUILabel"; text = "作者：I2"; ObjectID = "muB-n5-9ca"; */
+"muB-n5-9ca.text" = "Produced by I2";
+
+/* Class = "IBUIButton"; normalTitle = "xiongdianpku@vip.qq.com"; ObjectID = "nJV-Gz-i5e"; */
+"nJV-Gz-i5e.normalTitle" = "xiongdianpku@vip.qq.com";
+
+/* Class = "IBUILabel"; text = "版本：1.0.0(101)"; ObjectID = "neW-fS-h60"; */
+"neW-fS-h60.text" = "Version: 1.0.0(101)";
+
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "oF8-GU-Ncg"; */
+"oF8-GU-Ncg.text" = "Subtitle";
+
+/* Class = "IBUILabel"; text = "Detail"; ObjectID = "ovo-pZ-ZF0"; */
+"ovo-pZ-ZF0.text" = "Detail";
+
+/* Class = "IBUILabel"; text = "北京大学法学院"; ObjectID = "pBJ-6g-23B"; */
+"pBJ-6g-23B.text" = "Law School of Peking University";
+
+/* Class = "IBUILabel"; text = "正在给I2发送文件：(总大小231.45MB)\n屏幕快照 2014-01-30 上午11.52.16.png"; ObjectID = "qH6-91-tZa"; */
+"qH6-91-tZa.text" = "正在给I2发送文件：(总大小231.45MB)\n屏幕快照 2014-01-30 上午11.52.16.png";
+
+/* Class = "IBUILabel"; text = "192.168.1.102"; ObjectID = "rk3-i9-pij"; */
+"rk3-i9-pij.text" = "192.168.1.102";
+
+/* Class = "IBUILabel"; text = "192.168.1.102"; ObjectID = "sLI-aO-Qgx"; */
+"sLI-aO-Qgx.text" = "192.168.1.102";
+
+/* Class = "IBUILabel"; text = "请在PC、Mac或者其他iOS设备上打开File Drop以向此设备发送文件。您的设备会被显示为：I2的iPhone"; ObjectID = "tKn-df-C8Q"; */
+"tKn-df-C8Q.text" = "Please run File Drop on PC, Mac, or another iOS device in order to send files to your device. Your device will be displayed as: I2's iPhone";
+
+/* Class = "IBUILabel"; text = "请在目的设备上运行File Drop。\n若目的设备是iPhone、iPad或iPod touch，还需在主界面上轻点加号 从File Drop接收"; ObjectID = "ta6-Sa-HFB"; */
+"ta6-Sa-HFB.text" = "Please run File Drop on the target device.\nIf the target device is an iOS device, tap ADD - Recieve from File Drop\nPlease turn on either wifi or bluetooth to send file";
+
+/* Class = "IBUIButton"; normalTitle = "好"; ObjectID = "um0-tO-bf8"; */
+"um0-tO-bf8.normalTitle" = "OK";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "vzf-Ml-oe9"; */
+"vzf-Ml-oe9.text" = "Title";
+
+/* Class = "IBUILabel"; text = "若其他设备与此设备不在同一无线局域网环境下，请在其他设备上选择“添加”按钮并输入以下地址："; ObjectID = "xaB-td-3jc"; */
+"xaB-td-3jc.text" = "If you cannot find your device, please select ADD button on the opposite device and input address below:";
+
+/* Class = "IBUILabel"; text = "正在搜寻开启了File Drop的设备"; ObjectID = "ycr-gY-VbC"; */
+"ycr-gY-VbC.text" = "Searching for devices with File Drop on";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "zN2-UV-daU"; */
+"zN2-UV-daU.text" = "Title";
+
+"oKz-Qx-Bpa.normalTitle" = "Copy";

@@ -1,0 +1,141 @@
+/* 
+  Localizable.strings
+  File Drop
+
+  Created by 熊典 on 14-3-4.
+  Copyright (c) 2014年 熊典. All rights reserved.
+*/
+
+//Document View Controller
+"选择来源"="Select resource";
+"取消"="Cancel";
+"从照片库导入"="Photo Library";
+"从照片库导入照片"="Photo from Photo Library";
+"从照片库导入视频"="Video from Photo Library";
+"拍照或摄像"="Take a Photo/Video";
+"文档包"="Document Package";
+"个项目"=" item(s)";
+"错误"="Error";
+"文件不存在"="File not exists";
+"好"="Ok";
+"分享"="Share";
+"通过File Drop发送"="Send via File Drop";
+"用其他应用打开"="Open with...";
+"新建文件夹"="Create new folder";
+"请输入文件夹名"="Input folder name";
+"未命名文件夹"="New folder";
+"全选"="Select all";
+"选择操作"="Choose an action";
+"删除选中的"="Delete the selected ";
+"确认删除"="Confirm delete";
+"删除"="Delete";
+"正在保存"="Saving";
+"复制所选文件"="Copy selected files";
+"从File Drop接收"="Recieve via File Drop";
+"粘贴至此"="Paste here";
+"移动至此"="Move here";
+"正在复制"="Copying";
+"要移动的目的地与原位置相同"="The destination is the same as source.";
+"一次导入照片不能超过30张"="Can not import more than 30 photos at one time.";
+"从哪里添加？"="Add from...";
+
+//Q&ATableViewController
+"File Drop找不到我的iOS设备"="File Drop cannot find my iOS devices";
+"File Drop找不到我的Mac"="File Drop cannot find my Mac";
+"File Drop找不到我的PC"="File Drop cannot find my PC";
+"iOS版本File Drop初始化失败"="File Drop for iOS initialize failed";
+"Mac PC版File Drop初始化失败"="File Drop for Mac PC initialize failed";
+"文件无法传输"="File transport failed";
+"文件无法预览"="File preview failed";
+
+//App Delegate
+"给我们点个赞吧~"="Give us a 5-star rate :)";
+"File Drop如此方便有木有！快告诉大家，让更多的人用上File Drop！"="Tell your friends to use File Drop!";
+"现在去评分=￣ω￣="="Rate now :-)";
+"下次吧⊙▽⊙"="Next time :-|";
+"不了……"="I won't :-(";
+
+//Server Manager
+"传输中断"="Terminated";
+"对方中断了文件传输"="The opposite canceled";
+"文件夹"="Folder";
+"给您发送下列文件："=" send files below:";
+"收到文件"="File Recieved";
+"拒绝"="Decline";
+"接受"="Accept";
+"有人"="Someone";
+"收到文本"="Text Recieved";
+"给您发送了文本："=" send text to you:";
+"复制"="Copy";
+"保存"="Save";
+"打开链接"="Open URL";
+"收到的文本"="Recieved Text";
+
+//Detail File Table View
+"文件名"="File Name";
+"文件大小"="File Size";
+"创建日期"="Creation Date";
+"修改日期"="Modify Date";
+"重命名"="Rename";
+"输入文件名"="Input new file name";
+"文件已复制"="File Copied";
+
+//WriterViewController
+"保存为文本文件"="Save as text file";
+"保存文件"="Save File";
+"未命名文本文件"="Untitled Text File";
+"保存失败"="Save failed";
+"请打开双方的蓝牙，或者接入无线局域网"="Please turn on bluetooth or connect to a wifi network";
+
+//Setting View
+"更改名字"="Modify Name";
+"请输入新的设备名称"="Input New Device Name";
+"正在连接商店"="Connecting to Store...";
+"File Drop入门"="File Drop ABC";
+"File Drop反馈"="File Drop Feedback";
+"抱歉"="Sorry";
+"购买时出现错误，请稍后再试！"="An error occured while purchasing, please try again later!";
+"已恢复您的购买"="Purchase restored";
+"失败"="Failed";
+"无法完成恢复"="Cannot restore purchase now";
+"感谢您的购买"="Thank you for your purchase";
+"购买失败"="Failed to purchase";
+"正在获取商品信息"="Getting information";
+
+//Send File View Controller
+"正在连接%@……"="Connecting to ";
+"正在发送文本给"="Sending text to ";
+"正在等待"="Waiting for ";
+"接受请求"=" accepting";
+"中断了传输"=" canceled file transmition";
+"正忙"=" is busy";
+"准备传输文件"="Preparing for transmition";
+"拒绝了您的请求"=" reject your request";
+"完成"="Done";
+"文件传输完成"="File transmition done";
+"正在给%@发送文件：(%@)\n%@"="Sending file to %@:(%@)\n%@";
+"发送成功！"="Success!";
+"发送失败"="Failed";
+"对方拒绝接收文本"="The opposite reject texts.";
+
+//RecieveFileViewController
+"无网络连接\n请接入无线局域网"="No avaliable network\nConnect to wifi";
+"请在PC、Mac或者其他iOS设备上打开File Drop以向此设备发送文件。您的设备将被显示为"="Open File Drop on PC/Mac or other iOS devices to send file. Your Device will be displayed as ";
+"初始化文件传输服务失败，请退出其他后台程序再试"="Initialization failed, quit other backgound apps and try again.";
+"%@ 正在给您发送文件:(%@)"="%@ is sending files to you:(%@)";
+"%@ 正在给您发送文件:(%@)\n%@"="%@ is sending files to you:(%@)\n%@";
+
+//Device View Controller
+"<添加其他设备>"="<Add another device>";
+"添加设备"="Add Device";
+"请输入设备的ip地址，它显示在设备的屏幕上"="Input the device's ip address, which will be displayed on its screen";
+"对方File Drop版本过低，无法发送"="His version of File Drop is too low, cannot send file";
+"无网络连接"="No Network Connection";
+
+//About View Controller
+"版本："="Version:";
+"File Drop反馈"="File Drop Feedback";
+
+"谢谢"="Thanks";
+"您已经移除过了广告，请勿重复购买"="You have already removed the ADs!";
+"您已经移除过了广告，请勿重复购买。如果还有广告，请重新启动程序"="You have already removed the ADs! If it doesn't work, restart your application";
